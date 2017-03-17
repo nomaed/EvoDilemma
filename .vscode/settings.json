@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "npm-intellisense.importQuotes": "\"",
+    "genGetSet.pathStringDelimiter": "\"",
+    "typescriptHero.resolver.pathStringDelimiter": "\"",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/out": true
+    }
+}

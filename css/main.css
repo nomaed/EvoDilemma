@@ -18,3 +18,9 @@ pre {
   margin: 0;
 }
 
+#output-window {
+  width: 90%;
+  height: 90%;
+  padding: 1em;
+  font-family: monospace;
+}
