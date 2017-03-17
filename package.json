@@ -1,0 +1,14 @@
+{
+  "name": "EvoDilemma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Boris Aranovich <nomaed@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jspm": "^0.16.53",
+    "plugin-typescript": "^7.0.6",
+    "systemjs": "^0.20.10",
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
+}
